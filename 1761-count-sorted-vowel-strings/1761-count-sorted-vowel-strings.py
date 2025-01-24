@@ -8,4 +8,3 @@ n=33
 sol=Solution()
 print(sol.countVowelStrings(n))
         
-        
