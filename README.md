@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kousttav/leet_code/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Kousttav/leet_code/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Kousttav/leet_code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kousttav/leet_code/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Kousttav/leet_code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kousttav/leet_code/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Kousttav/leet_code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1761-count-sorted-vowel-strings](https://github.com/Kousttav/leet_code/tree/master/1761-count-sorted-vowel-strings) |
