@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kousttav/leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kousttav/leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kousttav/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0742-to-lower-case](https://github.com/Kousttav/leet_code/tree/master/0742-to-lower-case) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
