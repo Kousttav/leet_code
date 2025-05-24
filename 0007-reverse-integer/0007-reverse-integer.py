@@ -16,6 +16,3 @@ class Solution:
                 if s < -2**31 or s > 2**31 - 1: return 0
             s=-s
         return s
-x=123
-sol=Solution()
-print(sol.reverse(x))
