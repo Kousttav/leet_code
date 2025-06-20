@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kousttav/leet_code/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
+| [1256-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1256-rank-transform-of-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Kousttav/leet_code/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kousttav/leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
+| [1256-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1256-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kousttav/leet_code/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Kousttav/leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
+| [1256-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1256-rank-transform-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
