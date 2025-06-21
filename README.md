@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kousttav/leet_code/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Kousttav/leet_code/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Kousttav/leet_code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Kousttav/leet_code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kousttav/leet_code/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kousttav/leet_code/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Kousttav/leet_code/tree/master/0053-maximum-subarray) |
 | [1761-count-sorted-vowel-strings](https://github.com/Kousttav/leet_code/tree/master/1761-count-sorted-vowel-strings) |
 ## Combinatorics
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kousttav/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Kousttav/leet_code/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
