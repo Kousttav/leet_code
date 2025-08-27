@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kousttav/leet_code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kousttav/leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kousttav/leet_code/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Kousttav/leet_code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kousttav/leet_code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Kousttav/leet_code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kousttav/leet_code/tree/master/0088-merge-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Kousttav/leet_code/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kousttav/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kousttav/leet_code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/Kousttav/leet_code/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Kousttav/leet_code/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Kousttav/leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kousttav/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kousttav/leet_code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Kousttav/leet_code/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Kousttav/leet_code/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Kousttav/leet_code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kousttav/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kousttav/leet_code/tree/master/0242-valid-anagram) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kousttav/leet_code/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Kousttav/leet_code/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Kousttav/leet_code/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Kousttav/leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
