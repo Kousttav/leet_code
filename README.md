@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Kousttav/leet_code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kousttav/leet_code/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Kousttav/leet_code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Kousttav/leet_code/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Kousttav/leet_code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Kousttav/leet_code/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Kousttav/leet_code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Kousttav/leet_code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Kousttav/leet_code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Kousttav/leet_code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kousttav/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kousttav/leet_code/tree/master/0242-valid-anagram) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kousttav/leet_code/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kousttav/leet_code/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Kousttav/leet_code/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
