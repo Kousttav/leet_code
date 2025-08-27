@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kousttav/leet_code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kousttav/leet_code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Kousttav/leet_code/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/Kousttav/leet_code/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Kousttav/leet_code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
