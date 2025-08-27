@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kousttav/leet_code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kousttav/leet_code/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Kousttav/leet_code/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Kousttav/leet_code/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Kousttav/leet_code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Kousttav/leet_code/tree/master/0066-plus-one) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kousttav/leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Kousttav/leet_code/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Kousttav/leet_code/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kousttav/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kousttav/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Kousttav/leet_code/tree/master/0125-valid-palindrome) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kousttav/leet_code/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kousttav/leet_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
