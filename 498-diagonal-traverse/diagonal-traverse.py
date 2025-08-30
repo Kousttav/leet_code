@@ -1,17 +1,39 @@
-class Solution(object):
-    def findDiagonalOrder(self, matrix):
-        """
-        :type matrix: List[List[int]]
-        :rtype: List[int]
-        """
-        if len(matrix) == 0: return []
-        result = []
-        count = collections.defaultdict(list)
-        m, n = len(matrix), len(matrix[0])
-        for i in range(m):
-            for j in range(n):
-                count[i+j].append(matrix[i][j])
-        
-        for i in range(m+n-1):
-            result += count[i][::-1] if i&1 == 0 else count[i]
-        return result
+class Solution:
+    def findDiagonalOrder(self, mat: List[List[int]]) -> List[int]:
+        if not mat or not mat[0]:
+            return []
+
+        m = len(mat)
+        n = len(mat[0])
+
+        diagonal = []
+
+        direction = 1
+
+        i, j = 0, 0
+
+        for _ in range(m * n):
+            diagonal.append(mat[i][j])
+
+            if direction == 1:
+                if j == n - 1:
+                    i += 1
+                    direction = -1
+                elif i == 0:
+                    j += 1
+                    direction = -1
+                else:
+                    i -= 1
+                    j += 1
+            else:
+                if i == m - 1:
+                    j += 1
+                    direction = 1
+                elif j == 0:
+                    i += 1
+                    direction = 1
+                else:
+                    i += 1
+                    j -= 1
+
+        return diagonal
