@@ -1,17 +1,34 @@
 class Solution:
-    def sortMatrix(self, grid: List[List[int]]) -> List[List[int]]:
-        n=len(grid)
-        # upper right triangle j=i+d
-        for d in range(n-2, 0, -1):
-            diag=sorted(grid[i][i+d] for i in range(n-d))
-            for i, x in enumerate(diag):
-                grid[i][i+d]=x
-        # lower left triangle i=j+d
-        for d in range(n-1):
-            diag=sorted((grid[j+d][j] for j in range(n-d)), reverse=True)
-            for j, x in enumerate(diag):
-                grid[j+d][j]=x
-        return grid
-        
-        
-        
+    def sortMatrix(self, grid):
+        n = len(grid)
+        for r in range(n):
+            diag = []
+            i=r
+            j=0
+            while i < n and j < n:
+                diag.append(grid[i][j])
+                i += 1
+                j += 1
+            diag.sort()
+            i=r
+            j=0
+            while i < n and j < n:
+                grid[i][j] = diag.pop()
+                i += 1
+                j += 1
+        for c in range(1, n):
+            diag = []
+            i=0
+            j=c
+            while i < n and j < n:
+                diag.append(grid[i][j])
+                i += 1
+                j += 1
+            diag.sort(reverse=True)
+            i=0
+            j=c
+            while i < n and j < n:
+                grid[i][j] = diag.pop()
+                i += 1
+                j += 1
+        return grid 
