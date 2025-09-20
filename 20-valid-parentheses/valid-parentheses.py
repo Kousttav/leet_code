@@ -3,7 +3,7 @@ class Solution:
         i=0
         a=[]
         for i in range(len(s)):
-            if s[i]=='('or s[i]=='['or s[i]=='{':
+            if s[i] in '([{':
                 a.append(s[i])
             else:
                 if not a:
