@@ -1,13 +1,13 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         l=[]
-        def get_permutations_recursive(elements, current_permutation=[]):
+        def permutations(elements, curr=[]):
             if not elements:
-                l.append(current_permutation)
+                l.append(curr)
             else:
                 for i in range(len(elements)):
-                    new_element = elements[i]
-                    remaining_elements = elements[:i] + elements[i+1:]
-                    get_permutations_recursive(remaining_elements, current_permutation + [new_element])
-        get_permutations_recursive(nums)
+                    new = elements[i]
+                    rem_elements = elements[:i] + elements[i+1:]
+                    permutations(rem_elements, curr + [new])
+        permutations(nums)
         return l
