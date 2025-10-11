@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Kousttav/leet_code/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kousttav/leet_code/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Kousttav/leet_code/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Kousttav/leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1761-count-sorted-vowel-strings](https://github.com/Kousttav/leet_code/tree/master/1761-count-sorted-vowel-strings) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kousttav/leet_code/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Kousttav/leet_code/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Kousttav/leet_code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Kousttav/leet_code/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Kousttav/leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 ## Sorting
 |  |
