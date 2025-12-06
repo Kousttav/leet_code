@@ -1,6 +1,7 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         res = []
+        temp =[]
         def backtrack(rem, combo, start):
             if rem < 0:
                 return
@@ -12,5 +13,5 @@ class Solution:
                 backtrack(rem - candidates[i], combo, i)
                 combo.pop()
 
-        backtrack(target, [], 0)
+        backtrack(target,temp, 0)
         return res
