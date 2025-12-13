@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Kousttav/leet_code/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Kousttav/leet_code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kousttav/leet_code/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Kousttav/leet_code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kousttav/leet_code/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kousttav/leet_code/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Kousttav/leet_code/tree/master/0202-happy-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Kousttav/leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kousttav/leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kousttav/leet_code/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Kousttav/leet_code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
