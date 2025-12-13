@@ -11,13 +11,13 @@ class Solution:
                 businessLine[i] in total_business
                 and isActive[i]
                 and code[i] != ""
-                and re.fullmatch(r'[\w]+', code[i])
+                and code[i].replace("_","a").isalnum()
             ):
                 storage[businessLine[i]].append(code[i])
 
         output = []
         for business in total_business:
-            storage[business].sort()     # 🔑 sort within business
+            storage[business].sort()
             output.extend(storage[business])
 
         return output
