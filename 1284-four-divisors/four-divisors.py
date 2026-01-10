@@ -1,17 +1,27 @@
 class Solution:
     def sumFourDivisors(self, nums: List[int]) -> int:
-        MAX = max(nums)
-        divCount = [0] * (MAX + 1)
-        divSum = [0] * (MAX + 1)
-
-        for i in range(1, MAX + 1):
-            for j in range(i, MAX + 1, i):
-                divCount[j] += 1
-                divSum[j] += i
-
-        ans = 0
-        for n in nums:
-            if divCount[n] == 4:
-                ans += divSum[n]
-
-        return ans
+        ts=0
+        for i in range(len(nums)):
+            if nums[i]<=4:
+                continue
+            else:
+                p=nums[i]
+                c=0
+                s=0
+                for j in range(1,int(math.sqrt(p))+1):
+                    if p%j==0:
+                        if p//j==j:
+                            s+=j
+                            c+=1
+                        else:
+                            s+=j
+                            s+=p//j
+                            c+=2
+                        if c>4:
+                            break
+                if c==4:
+                    ts+=s
+        if ts>0:
+            return ts
+        else:
+            return 0
