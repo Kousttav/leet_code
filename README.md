@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1256-rank-transform-of-an-array) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Kousttav/leet_code/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kousttav/leet_code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Kousttav/leet_code/tree/master/1603-running-sum-of-1d-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Kousttav/leet_code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kousttav/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kousttav/leet_code/tree/master/0152-maximum-product-subarray) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Kousttav/leet_code/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1761-count-sorted-vowel-strings](https://github.com/Kousttav/leet_code/tree/master/1761-count-sorted-vowel-strings) |
 ## Combinatorics
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Kousttav/leet_code/tree/master/0073-set-matrix-zeroes) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Kousttav/leet_code/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Kousttav/leet_code/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
