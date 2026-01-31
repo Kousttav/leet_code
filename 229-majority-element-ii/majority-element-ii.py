@@ -3,7 +3,10 @@ class Solution:
         c=len(nums)//3
         d={}
         for n in nums:
-            d[n] = d.get(n, 0) + 1
+            if n in d:
+                d[n]=d[n]+1
+            else:
+                d[n]=1
         l=[]
         for i in d:
             if d[i]>c:
