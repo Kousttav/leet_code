@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3136-valid-word](https://github.com/Kousttav/leet_code/tree/master/3136-valid-word) |
+| [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
 | [3606-coupon-code-validator](https://github.com/Kousttav/leet_code/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kousttav/leet_code/tree/master/0067-add-binary) |
+| [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kousttav/leet_code/tree/master/0020-valid-parentheses) |
+| [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
 ## Database
 |  |
 | ------- |
