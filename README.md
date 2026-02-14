@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Kousttav/leet_code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Kousttav/leet_code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Kousttav/leet_code/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1390-four-divisors](https://github.com/Kousttav/leet_code/tree/master/1390-four-divisors) |
 | [1761-count-sorted-vowel-strings](https://github.com/Kousttav/leet_code/tree/master/1761-count-sorted-vowel-strings) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Kousttav/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kousttav/leet_code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Kousttav/leet_code/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Kousttav/leet_code/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Kousttav/leet_code/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kousttav/leet_code/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Kousttav/leet_code/tree/master/0415-add-strings) |
 | [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
 ## Memoization
 |  |
