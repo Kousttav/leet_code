@@ -7,13 +7,11 @@ class Solution:
                 d1[i]=1
             else:
                 d1[i]=d1[i]+1
-        print(d1)
         for j in t:
             if j not in d2:
                 d2[j]=1
             else:
                 d2[j]=d2[j]+1
-        print(d2)
         if len(s)>len(t):
             l=d1
             m=d2
