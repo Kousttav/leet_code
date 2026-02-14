@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kousttav/leet_code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kousttav/leet_code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Kousttav/leet_code/tree/master/0374-guess-number-higher-or-lower) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kousttav/leet_code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Kousttav/leet_code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Bit Manipulation
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Kousttav/leet_code/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Kousttav/leet_code/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Kousttav/leet_code/tree/master/0178-rank-scores) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Kousttav/leet_code/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
