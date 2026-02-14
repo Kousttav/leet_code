@@ -9,5 +9,5 @@ class Solution:
             else:
                 char_set.add(char)
         if char_set:
-            length += 1
+            length+=1
         return length
