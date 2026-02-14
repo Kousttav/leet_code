@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kousttav/leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kousttav/leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kousttav/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Kousttav/leet_code/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/Kousttav/leet_code/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Kousttav/leet_code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kousttav/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kousttav/leet_code/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Kousttav/leet_code/tree/master/0392-is-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Kousttav/leet_code/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1761-count-sorted-vowel-strings](https://github.com/Kousttav/leet_code/tree/master/1761-count-sorted-vowel-strings) |
 ## Combinatorics
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kousttav/leet_code/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Kousttav/leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kousttav/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Kousttav/leet_code/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kousttav/leet_code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String Matching
 |  |
