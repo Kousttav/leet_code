@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kousttav/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Kousttav/leet_code/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Kousttav/leet_code/tree/master/0496-next-greater-element-i) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1256-rank-transform-of-an-array) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Kousttav/leet_code/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Kousttav/leet_code/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kousttav/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Kousttav/leet_code/tree/master/0496-next-greater-element-i) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1256-rank-transform-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1331-rank-transform-of-an-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kousttav/leet_code/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Kousttav/leet_code/tree/master/0496-next-greater-element-i) |
 | [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
 ## Database
 |  |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Kousttav/leet_code/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
