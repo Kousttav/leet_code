@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Kousttav/leet_code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kousttav/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1256-rank-transform-of-an-array) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Kousttav/leet_code/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Kousttav/leet_code/tree/master/0073-set-matrix-zeroes) |
+| [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Kousttav/leet_code/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Kousttav/leet_code/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
@@ -264,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Kousttav/leet_code/tree/master/0374-guess-number-higher-or-lower) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
