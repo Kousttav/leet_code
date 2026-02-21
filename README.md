@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Kousttav/leet_code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Kousttav/leet_code/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Kousttav/leet_code/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/Kousttav/leet_code/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/Kousttav/leet_code/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kousttav/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Kousttav/leet_code/tree/master/0459-repeated-substring-pattern) |
 ## Binary Search
 |  |
 | ------- |
