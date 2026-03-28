@@ -1,6 +1,6 @@
 class Solution:
     def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
-        # banned.append(" ")
+        banned.append(" ")
         nw=""
         for wd in paragraph:
             if wd.isalpha() or wd==" ":
