@@ -1,10 +1,8 @@
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
-        d={}
+        s = set()
         for i in nums:
-            if i not in d:
-                d[i]=1
-            else:
-                d[i]+=1
-        return max(d,key=d.get)
+            if i in s:
+                return i
+            s.add(i)
         
