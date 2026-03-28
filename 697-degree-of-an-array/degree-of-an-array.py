@@ -7,7 +7,7 @@ class Solution:
         m=0
         for v in d.values():
             m=max(m,len(v))
-        print(m)
+        #print(m)
 
         b = len(nums)
         for v in d.values():
