@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kousttav/leet_code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Kousttav/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Kousttav/leet_code/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kousttav/leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Kousttav/leet_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kousttav/leet_code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Kousttav/leet_code/tree/master/0205-isomorphic-strings) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Kousttav/leet_code/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kousttav/leet_code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Kousttav/leet_code/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kousttav/leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Kousttav/leet_code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Kousttav/leet_code/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Kousttav/leet_code/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kousttav/leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Kousttav/leet_code/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Kousttav/leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kousttav/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
