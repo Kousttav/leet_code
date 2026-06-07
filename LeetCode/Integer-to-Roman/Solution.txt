@@ -1,0 +1,15 @@
+1class Solution:
+2    def intToRoman(self, num: int) -> str:
+3        values = [ (1000, 'M'), (900, 'CM'), (500, 'D'), (400, 'CD'), (100, 'C'), (90, 'XC'), (50, 'L'), (40, 'XL'), (10, 'X'), (9, 'IX'), (5, 'V'), (4, 'IV'), (1, 'I')]
+4
+5        result = ''
+6
+7        while num != 0:
+8            for value, letter in values:
+9                if value <= num:
+10                    num -= value
+11                    result += letter
+12                    break
+13        
+14        return result
+15
