@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Kousttav/leet_code/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Kousttav/leet_code/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Kousttav/leet_code/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Kousttav/leet_code/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Kousttav/leet_code/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/Kousttav/leet_code/tree/master/0598-range-addition-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Kousttav/leet_code/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Kousttav/leet_code/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Kousttav/leet_code/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/Kousttav/leet_code/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Kousttav/leet_code/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Kousttav/leet_code/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Kousttav/leet_code/tree/master/0551-student-attendance-record-i) |
