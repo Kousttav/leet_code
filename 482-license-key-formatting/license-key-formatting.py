@@ -1,10 +1,6 @@
 class Solution:
     def licenseKeyFormatting(self, s: str, k: int) -> str:
-        st = ""
-
-        for ch in s:
-            if ch != "-":
-                st += ch.upper()
+        st = s.replace("-", "").upper()
 
         res = ""
         cnt = 0
