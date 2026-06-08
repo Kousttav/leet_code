@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Kousttav/leet_code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Kousttav/leet_code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Kousttav/leet_code/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Kousttav/leet_code/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Kousttav/leet_code/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Kousttav/leet_code/tree/master/0507-perfect-number) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kousttav/leet_code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kousttav/leet_code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Kousttav/leet_code/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kousttav/leet_code/tree/master/0374-guess-number-higher-or-lower) |
 | [0888-fair-candy-swap](https://github.com/Kousttav/leet_code/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kousttav/leet_code/tree/master/1385-find-the-distance-value-between-two-arrays) |
