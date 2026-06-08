@@ -1,7 +1,7 @@
 1class Solution:
 2    def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-3        for ch in ransomNote:
-4            if ch not in magazine:
-5                return False
-6            magazine = magazine.replace(ch, "", 1)
+3        
+4        for i in set(ransomNote):
+5            if magazine.count(i) - ransomNote.count(i) < 0:
+6                return False
 7        return True
