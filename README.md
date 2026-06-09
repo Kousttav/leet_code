@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kousttav/leet_code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kousttav/leet_code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Kousttav/leet_code/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Kousttav/leet_code/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kousttav/leet_code/tree/master/0374-guess-number-higher-or-lower) |
 | [0888-fair-candy-swap](https://github.com/Kousttav/leet_code/tree/master/0888-fair-candy-swap) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Kousttav/leet_code/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kousttav/leet_code/tree/master/0374-guess-number-higher-or-lower) |
 ## Depth-First Search
 |  |
