@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Kousttav/leet_code/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Kousttav/leet_code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kousttav/leet_code/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Kousttav/leet_code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kousttav/leet_code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kousttav/leet_code/tree/master/0367-valid-perfect-square) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kousttav/leet_code/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Kousttav/leet_code/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Kousttav/leet_code/tree/master/0415-add-strings) |
 | [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
 ## Memoization
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Kousttav/leet_code/tree/master/0561-array-partition) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Kousttav/leet_code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
