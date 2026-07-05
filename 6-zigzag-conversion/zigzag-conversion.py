@@ -1,19 +1,16 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
-        if numRows == 1:
-            return s
+        if numRows==1: return s
+        step=1
+        row=[""]*numRows
+        cur=0
+        for c in s:
+            row[cur]+=c
+            if cur==0:
+                step=1
+            elif cur == numRows-1:
+                step=-1
+            cur+=step
+        return "".join(row)
+
         
-        rows = [""] * numRows
-        curr_row = 0
-        step = 1 
-
-        for char in s:
-            rows[curr_row] += char
-
-            if curr_row == 0:
-                step = 1
-            elif curr_row == numRows -1:
-                step = -1
-            
-            curr_row += step
-        return "".join(rows)
