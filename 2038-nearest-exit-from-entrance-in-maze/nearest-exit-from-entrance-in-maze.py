@@ -10,7 +10,7 @@ class Solution:
         q = deque()
         q.append((entrance[0], entrance[1]))
 
-        maze[entrance[0]][entrance[1]] = '+'   # Mark entrance as visited
+        maze[entrance[0]][entrance[1]] = '+'  
         steps = 0
 
         while q:
@@ -33,7 +33,7 @@ class Solution:
                         and maze[nx][ny] != '+'
                     ):
                         q.append((nx, ny))
-                        maze[nx][ny] = '+'   # Mark as visited
+                        maze[nx][ny] = '+'  
 
             steps += 1
 
