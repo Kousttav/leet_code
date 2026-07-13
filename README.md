@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kousttav/leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kousttav/leet_code/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Kousttav/leet_code/tree/master/0409-longest-palindrome) |
+| [0433-minimum-genetic-mutation](https://github.com/Kousttav/leet_code/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kousttav/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Kousttav/leet_code/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Kousttav/leet_code/tree/master/0500-keyboard-row) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Kousttav/leet_code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Kousttav/leet_code/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Kousttav/leet_code/tree/master/0415-add-strings) |
+| [0433-minimum-genetic-mutation](https://github.com/Kousttav/leet_code/tree/master/0433-minimum-genetic-mutation) |
 | [0459-repeated-substring-pattern](https://github.com/Kousttav/leet_code/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Kousttav/leet_code/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Kousttav/leet_code/tree/master/0504-base-7) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/Kousttav/leet_code/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
 ## Monotonic Stack
 |  |
