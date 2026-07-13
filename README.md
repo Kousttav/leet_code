@@ -367,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kousttav/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Kousttav/leet_code/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
