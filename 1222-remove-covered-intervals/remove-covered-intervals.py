@@ -1,13 +1,13 @@
 class Solution:
     def removeCoveredIntervals(self, intervals: List[List[int]]) -> int:
-        covered = [False] * len(intervals)
-
-        for i in range(len(intervals)):
-            for j in range(len(intervals)):
-                if i != j:
-                    if (intervals[j][0] <= intervals[i][0] and
-                        intervals[i][1] <= intervals[j][1]):
-                        covered[i] = True
-                        break
-
-        return covered.count(False)
+        intervals.sort(key = lambda x:x[0])
+        count = len(intervals)
+        prev_l = intervals[0][0]
+        prev_r = intervals[0][1]
+        for i in range(1, len(intervals)):
+            # 1, 4,  2, 3
+            if intervals[i][1] <= prev_r or intervals[i][0] == prev_l:
+                count -= 1
+            prev_l = intervals[i][0]
+            prev_r = max(prev_r, intervals[i][1])
+        return count
