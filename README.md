@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
+| [0886-possible-bipartition](https://github.com/Kousttav/leet_code/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kousttav/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kousttav/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Kousttav/leet_code/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Kousttav/leet_code/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
+| [0886-possible-bipartition](https://github.com/Kousttav/leet_code/tree/master/0886-possible-bipartition) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kousttav/leet_code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kousttav/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Monotonic Stack
@@ -371,11 +373,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/Kousttav/leet_code/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kousttav/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kousttav/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/Kousttav/leet_code/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kousttav/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kousttav/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Enumeration
