@@ -20,7 +20,6 @@ class Solution:
 
         comp = 1
 
-        # Mark every connected component with an ID
         for i in range(n):
             if visited[i] == 0:
                 dfs(comp, i)
