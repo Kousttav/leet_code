@@ -11,6 +11,4 @@ class Solution:
         if res != float('inf'):
             return res
         else:
-            return 0
-
-        
+            return 0       
