@@ -1,8 +1,18 @@
 1import math
-2class Solution:
-3    def judgeSquareSum(self, c: int) -> bool:
-4        for a in range(math.isqrt(c) + 1):
-5            rem = c - a * a
-6            if math.isqrt(rem) ** 2 == rem:
-7                return True
-8        return False
+2
+3class Solution:
+4    def judgeSquareSum(self, c: int) -> bool:
+5        left = 0
+6        right = math.isqrt(c)
+7
+8        while left <= right:
+9            s = left * left + right * right
+10
+11            if s == c:
+12                return True
+13            elif s < c:
+14                left += 1
+15            else:
+16                right -= 1
+17
+18        return False
