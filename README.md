@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Kousttav/leet_code/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Kousttav/leet_code/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/Kousttav/leet_code/tree/master/0598-range-addition-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Kousttav/leet_code/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1390-four-divisors](https://github.com/Kousttav/leet_code/tree/master/1390-four-divisors) |
 | [1761-count-sorted-vowel-strings](https://github.com/Kousttav/leet_code/tree/master/1761-count-sorted-vowel-strings) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Kousttav/leet_code/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Kousttav/leet_code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kousttav/leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/Kousttav/leet_code/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kousttav/leet_code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String Matching
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Kousttav/leet_code/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Kousttav/leet_code/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kousttav/leet_code/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/Kousttav/leet_code/tree/master/0633-sum-of-square-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kousttav/leet_code/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kousttav/leet_code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Kousttav/leet_code/tree/master/2226-maximum-candies-allocated-to-k-children) |
