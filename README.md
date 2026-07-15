@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1256-rank-transform-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1331-rank-transform-of-an-array) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kousttav/leet_code/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3606-coupon-code-validator](https://github.com/Kousttav/leet_code/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kousttav/leet_code/tree/master/0169-majority-element) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kousttav/leet_code/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Stack
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
 | [0886-possible-bipartition](https://github.com/Kousttav/leet_code/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kousttav/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kousttav/leet_code/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kousttav/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Kousttav/leet_code/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
 | [0886-possible-bipartition](https://github.com/Kousttav/leet_code/tree/master/0886-possible-bipartition) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kousttav/leet_code/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kousttav/leet_code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kousttav/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Monotonic Stack
@@ -391,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Kousttav/leet_code/tree/master/1291-sequential-digits) |
+## Tree
+|  |
+| ------- |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kousttav/leet_code/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 <!---LeetCode Topics End-->
