@@ -1,23 +1,40 @@
 class Solution:
     def closestMeetingNode(self, edges: List[int], node1: int, node2: int) -> int:
         n=len(edges)
-        def dfs(edges,node,dist,visited):
+        # def dfs(edges,node,dist,visited):
+        #     visited[node]=True
+        #     v=edges[node]
+        #     if(v!=-1 and not visited[v]):
+        #         visited[v]=True
+        #         dist[v]=1+dist[node]
+        #         dfs(edges,v,dist,visited)
+        #     return
+        def bfs(edges,node,dist):
+            q=deque()
+            dist[node]=0
+            visited=[False]*n
+            q.append(node)
             visited[node]=True
-            v=edges[node]
-            if(v!=-1 and not visited[v]):
-                visited[v]=True
-                dist[v]=1+dist[node]
-                dfs(edges,v,dist,visited)
+            while q:
+                u=q.popleft()
+                v=edges[u]
+                if(v!=-1 and not visited[v]):
+                    visited[v]=True
+                    dist[v]=1+dist[u]
+                    q.append(v)
             return
-        visited1=[False]*n
-        visited2=[False]*n
+
+
+        # visited1=[False]*n
+        # visited2=[False]*n
         dist1=[float('inf')]*n
         dist2=[float('inf')]*n
-        dist1[node1]=0
-        dist2[node2]=0
-        dfs(edges,node1,dist1,visited1)
-        dfs(edges,node2,dist2,visited2)
-
+        # dist1[node1]=0
+        # dist2[node2]=0
+        # dfs(edges,node1,dist1,visited1)
+        # dfs(edges,node2,dist2,visited2)
+        bfs(edges,node1,dist1)
+        bfs(edges,node2,dist2)
         mindistnode=-1
         mindistnow=float('inf')
         for i in range(n):
