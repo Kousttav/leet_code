@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kousttav/leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Kousttav/leet_code/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Kousttav/leet_code/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3136-valid-word](https://github.com/Kousttav/leet_code/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0886-possible-bipartition](https://github.com/Kousttav/leet_code/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kousttav/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Kousttav/leet_code/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kousttav/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
