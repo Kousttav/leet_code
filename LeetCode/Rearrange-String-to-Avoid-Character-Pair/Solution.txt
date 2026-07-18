@@ -1,0 +1,14 @@
+1class Solution:
+2    def rearrangeString(self, s: str, x: str, y: str) -> str:
+3        cx=s.count(x)
+4        cy=s.count(y)
+5        ans=[]
+6        for _ in range(cy):
+7            ans.append(y)
+8        for ch in s:
+9            if ch != x and ch !=y:
+10                ans.append(ch)
+11        for _ in range(cx):
+12            ans.append(x)
+13        
+14        return "".join(ans)
