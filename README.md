@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1390-four-divisors](https://github.com/Kousttav/leet_code/tree/master/1390-four-divisors) |
 | [1761-count-sorted-vowel-strings](https://github.com/Kousttav/leet_code/tree/master/1761-count-sorted-vowel-strings) |
+| [1952-three-divisors](https://github.com/Kousttav/leet_code/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kousttav/leet_code/tree/master/2119-a-number-after-a-double-reversal) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kousttav/leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kousttav/leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kousttav/leet_code/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/Kousttav/leet_code/tree/master/1952-three-divisors) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kousttav/leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kousttav/leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kousttav/leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Kousttav/leet_code/tree/master/1291-sequential-digits) |
+| [1952-three-divisors](https://github.com/Kousttav/leet_code/tree/master/1952-three-divisors) |
 ## Tree
 |  |
 | ------- |
