@@ -1,0 +1,15 @@
+1class Solution:
+2    def minAdjacentSwaps(self, nums: list[int], a: int, b: int) -> int:
+3        MOD =10**9+7
+4        seen0=seen1=seen2=0
+5        ans=0
+6        for x in nums:
+7            if x<a:
+8                ans+=seen1+seen2
+9                seen0+=1
+10            elif x<=b:
+11                ans+=seen2
+12                seen1+=1
+13            else:
+14                seen2+=1
+15        return ans%MOD
