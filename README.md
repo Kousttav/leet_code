@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Kousttav/leet_code/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Kousttav/leet_code/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kousttav/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3136-valid-word](https://github.com/Kousttav/leet_code/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kousttav/leet_code/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Kousttav/leet_code/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Kousttav/leet_code/tree/master/0561-array-partition) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kousttav/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kousttav/leet_code/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Kousttav/leet_code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kousttav/leet_code/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kousttav/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
 ## Database
 |  |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kousttav/leet_code/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kousttav/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
