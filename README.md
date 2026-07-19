@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
 | [0886-possible-bipartition](https://github.com/Kousttav/leet_code/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kousttav/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kousttav/leet_code/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kousttav/leet_code/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kousttav/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Kousttav/leet_code/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
 | [0886-possible-bipartition](https://github.com/Kousttav/leet_code/tree/master/0886-possible-bipartition) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kousttav/leet_code/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kousttav/leet_code/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kousttav/leet_code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kousttav/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0886-possible-bipartition](https://github.com/Kousttav/leet_code/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kousttav/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kousttav/leet_code/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kousttav/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
