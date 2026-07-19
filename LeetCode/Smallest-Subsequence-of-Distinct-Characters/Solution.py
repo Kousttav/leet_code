@@ -1,24 +1,19 @@
 1class Solution:
 2    def smallestSubsequence(self, s: str) -> str:
-3        vis = [0] * 26
-4        num = [0] * 26
-5
-6        for ch in s:
-7            num[ord(ch) - ord("a")] += 1
-8        stk = []
+3        freq = {ch: 0 for ch in s}
+4        vis = set()
+5        stack = []
+6
+7        for ch in s:
+8            freq[ch] += 1
 9
 10        for ch in s:
-11            idx = ord(ch) - ord("a")
-12            if not vis[idx]:
-13                while stk and stk[-1] > ch:
-14                    top_idx = ord(stk[-1]) - ord("a")
-15                    if num[top_idx] > 0:
-16                        vis[top_idx] = 0
-17                        stk.pop()
-18                    else:
-19                        break
-20                vis[idx] = 1
-21                stk.append(ch)
-22            num[idx] -= 1
-23
-24        return "".join(stk)
+11            freq[ch] -= 1
+12            if ch in vis:
+13                continue
+14            while stack and stack[-1] > ch and freq[stack[-1]] > 0:
+15                vis.remove(stack.pop())
+16            stack.append(ch)
+17            vis.add(ch)
+18
+19        return "".join(stack)
