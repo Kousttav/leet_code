@@ -6,7 +6,6 @@ class Solution:
             graph[v].append((u,1))
             graph[u].append((v,0))
         count=0
-        visited=[False]*(n+1)
         def dfs(node,prev):
             nonlocal count
             for v,c in graph[node]:
@@ -15,7 +14,6 @@ class Solution:
                 elif c == 1:
                     count+=1
                 dfs(v,node)
-        
         dfs(0,-1)
         return count
                 
