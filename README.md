@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Kousttav/leet_code/tree/master/0888-fair-candy-swap) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1256-rank-transform-of-an-array) |
+| [1260-shift-2d-grid](https://github.com/Kousttav/leet_code/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Kousttav/leet_code/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kousttav/leet_code/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kousttav/leet_code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Kousttav/leet_code/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Kousttav/leet_code/tree/master/0415-add-strings) |
+| [1260-shift-2d-grid](https://github.com/Kousttav/leet_code/tree/master/1260-shift-2d-grid) |
 | [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kousttav/leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Kousttav/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Kousttav/leet_code/tree/master/0463-island-perimeter) |
+| [1260-shift-2d-grid](https://github.com/Kousttav/leet_code/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Kousttav/leet_code/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kousttav/leet_code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Kousttav/leet_code/tree/master/3748-sort-matrix-by-diagonals) |
