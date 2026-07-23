@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Kousttav/leet_code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Kousttav/leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kousttav/leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Kousttav/leet_code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3606-coupon-code-validator](https://github.com/Kousttav/leet_code/tree/master/3606-coupon-code-validator) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Kousttav/leet_code/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Kousttav/leet_code/tree/master/3748-sort-matrix-by-diagonals) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Kousttav/leet_code/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kousttav/leet_code/tree/master/2119-a-number-after-a-double-reversal) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kousttav/leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Kousttav/leet_code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kousttav/leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3830-find-closest-person](https://github.com/Kousttav/leet_code/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kousttav/leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Kousttav/leet_code/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Kousttav/leet_code/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Kousttav/leet_code/tree/master/0476-number-complement) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Kousttav/leet_code/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
 |  |
 | ------- |
