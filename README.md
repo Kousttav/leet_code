@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Kousttav/leet_code/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Kousttav/leet_code/tree/master/0561-array-partition) |
 | [0598-range-addition-ii](https://github.com/Kousttav/leet_code/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kousttav/leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kousttav/leet_code/tree/master/0888-fair-candy-swap) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1256-rank-transform-of-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Kousttav/leet_code/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Kousttav/leet_code/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/Kousttav/leet_code/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kousttav/leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Kousttav/leet_code/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1390-four-divisors](https://github.com/Kousttav/leet_code/tree/master/1390-four-divisors) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Kousttav/leet_code/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Kousttav/leet_code/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Kousttav/leet_code/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kousttav/leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kousttav/leet_code/tree/master/0888-fair-candy-swap) |
 | [1256-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1256-rank-transform-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1331-rank-transform-of-an-array) |
