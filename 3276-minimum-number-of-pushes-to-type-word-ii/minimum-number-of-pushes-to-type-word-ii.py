@@ -1,15 +1,9 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
-        frequency = [0] * 26
-        for c in word:
-            frequency[ord(c) - ord("a")] += 1
-        frequency.sort(reverse=True)
+        counts = [word.count(chr(ord('a') + i)) for i in range(26)] 
+        arr = sorted(counts, reverse=True)
+        total = 0
+        for group, i in enumerate(range(0, len(arr), 8), start=1):
+            total += sum(arr[i:i+8]) * group
 
-        total_pushes = 0
-
-        for i in range(26):
-            if frequency[i] == 0:
-                break
-            total_pushes += (i // 8 + 1) * frequency[i]
-
-        return total_pushes
+        return total
