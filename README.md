@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kousttav/leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3136-valid-word](https://github.com/Kousttav/leet_code/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kousttav/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3606-coupon-code-validator](https://github.com/Kousttav/leet_code/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Kousttav/leet_code/tree/master/0392-is-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Kousttav/leet_code/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1761-count-sorted-vowel-strings](https://github.com/Kousttav/leet_code/tree/master/1761-count-sorted-vowel-strings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kousttav/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kousttav/leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Combinatorics
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kousttav/leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Kousttav/leet_code/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kousttav/leet_code/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kousttav/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kousttav/leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Kousttav/leet_code/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kousttav/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kousttav/leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kousttav/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
 | ------- |
