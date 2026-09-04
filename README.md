@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Kousttav/leet_code/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kousttav/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kousttav/leet_code/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kousttav/leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3136-valid-word](https://github.com/Kousttav/leet_code/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
