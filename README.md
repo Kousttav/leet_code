@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Kousttav/leet_code/tree/master/1390-four-divisors) |
 | [1603-running-sum-of-1d-array](https://github.com/Kousttav/leet_code/tree/master/1603-running-sum-of-1d-array) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kousttav/leet_code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Kousttav/leet_code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Kousttav/leet_code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kousttav/leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Kousttav/leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1256-rank-transform-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kousttav/leet_code/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Kousttav/leet_code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kousttav/leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3606-coupon-code-validator](https://github.com/Kousttav/leet_code/tree/master/3606-coupon-code-validator) |
 ## Math
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1256-rank-transform-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Kousttav/leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kousttav/leet_code/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Kousttav/leet_code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kousttav/leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kousttav/leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3606-coupon-code-validator](https://github.com/Kousttav/leet_code/tree/master/3606-coupon-code-validator) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Kousttav/leet_code/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Kousttav/leet_code/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Kousttav/leet_code/tree/master/1260-shift-2d-grid) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Kousttav/leet_code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kousttav/leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
