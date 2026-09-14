@@ -1,7 +1,7 @@
 class Solution:
     def minimumIndex(self, capacity: list[int], itemSize: int) -> int:
-        if max(capacity)<itemSize:
-            return -1
+        # if max(capacity)<itemSize:
+        #     return -1
         mx=-1
         for i,n in enumerate(capacity):
             if n<itemSize:
