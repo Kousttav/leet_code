@@ -1,17 +1,13 @@
 1class Solution:
 2    def countEven(self, num: int) -> int:
-3        c=0
-4        def check(n):
-5            n=str(n)
-6            s=0
-7            for i in n:
-8                s+=int(i)
-9            return s
-10        for i in range(1,num+1):
-11            if check(i)%2==0:
-12                c+=1
-13        return c
-14
-15            
-16
-17        
+3        total = 0
+4        n = num
+5
+6        while n > 0:
+7            total += n % 10
+8            n //= 10
+9
+10        if total % 2 == 0:
+11            return num // 2
+12        else:
+13            return (num - 1) // 2
