@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Kousttav/leet_code/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kousttav/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kousttav/leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Kousttav/leet_code/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kousttav/leet_code/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kousttav/leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Kousttav/leet_code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kousttav/leet_code/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kousttav/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kousttav/leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/Kousttav/leet_code/tree/master/3174-clear-digits) |
 ## Database
 |  |
@@ -454,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Kousttav/leet_code/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kousttav/leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
