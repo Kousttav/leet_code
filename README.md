@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Kousttav/leet_code/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Kousttav/leet_code/tree/master/0561-array-partition) |
 | [0598-range-addition-ii](https://github.com/Kousttav/leet_code/tree/master/0598-range-addition-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/Kousttav/leet_code/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kousttav/leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Kousttav/leet_code/tree/master/0888-fair-candy-swap) |
 | [1044-find-common-characters](https://github.com/Kousttav/leet_code/tree/master/1044-find-common-characters) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kousttav/leet_code/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Kousttav/leet_code/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Kousttav/leet_code/tree/master/0561-array-partition) |
+| [0624-maximum-distance-in-arrays](https://github.com/Kousttav/leet_code/tree/master/0624-maximum-distance-in-arrays) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kousttav/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kousttav/leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kousttav/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
