@@ -6,7 +6,7 @@ class Solution:
             if i == "(":
                 c+=1
 
-            if i==")":
+            elif i==")":
                 c-=1
             mx=max(mx,c)
         return mx
