@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Kousttav/leet_code/tree/master/1390-four-divisors) |
 | [1603-running-sum-of-1d-array](https://github.com/Kousttav/leet_code/tree/master/1603-running-sum-of-1d-array) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kousttav/leet_code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1936-add-minimum-number-of-rungs](https://github.com/Kousttav/leet_code/tree/master/1936-add-minimum-number-of-rungs) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Kousttav/leet_code/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Kousttav/leet_code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Kousttav/leet_code/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Kousttav/leet_code/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kousttav/leet_code/tree/master/0624-maximum-distance-in-arrays) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kousttav/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1936-add-minimum-number-of-rungs](https://github.com/Kousttav/leet_code/tree/master/1936-add-minimum-number-of-rungs) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/Kousttav/leet_code/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kousttav/leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kousttav/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
