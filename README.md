@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kousttav/leet_code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kousttav/leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Kousttav/leet_code/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2800-shortest-string-that-contains-three-strings](https://github.com/Kousttav/leet_code/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kousttav/leet_code/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kousttav/leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3136-valid-word](https://github.com/Kousttav/leet_code/tree/master/3136-valid-word) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Kousttav/leet_code/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kousttav/leet_code/tree/master/0624-maximum-distance-in-arrays) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kousttav/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2800-shortest-string-that-contains-three-strings](https://github.com/Kousttav/leet_code/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kousttav/leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kousttav/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Kousttav/leet_code/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Kousttav/leet_code/tree/master/1952-three-divisors) |
+| [2800-shortest-string-that-contains-three-strings](https://github.com/Kousttav/leet_code/tree/master/2800-shortest-string-that-contains-three-strings) |
 ## Tree
 |  |
 | ------- |
