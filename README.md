@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Kousttav/leet_code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Kousttav/leet_code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kousttav/leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Kousttav/leet_code/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Kousttav/leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kousttav/leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kousttav/leet_code/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Kousttav/leet_code/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kousttav/leet_code/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Kousttav/leet_code/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Kousttav/leet_code/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kousttav/leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kousttav/leet_code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kousttav/leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Kousttav/leet_code/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Kousttav/leet_code/tree/master/1952-three-divisors) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Kousttav/leet_code/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kousttav/leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kousttav/leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kousttav/leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
