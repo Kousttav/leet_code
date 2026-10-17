@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kousttav/leet_code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/Kousttav/leet_code/tree/master/1390-four-divisors) |
 | [1603-running-sum-of-1d-array](https://github.com/Kousttav/leet_code/tree/master/1603-running-sum-of-1d-array) |
+| [1652-defuse-the-bomb](https://github.com/Kousttav/leet_code/tree/master/1652-defuse-the-bomb) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kousttav/leet_code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1936-add-minimum-number-of-rungs](https://github.com/Kousttav/leet_code/tree/master/1936-add-minimum-number-of-rungs) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Kousttav/leet_code/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kousttav/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kousttav/leet_code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1652-defuse-the-bomb](https://github.com/Kousttav/leet_code/tree/master/1652-defuse-the-bomb) |
 ## Simulation
 |  |
 | ------- |
